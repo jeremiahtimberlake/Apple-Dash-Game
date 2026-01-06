@@ -18,7 +18,7 @@ This project was completed for the course LMC 6310: The Computer as an Expressiv
 - JavaScript (p5.js)
 
 ## Usage  
-Try the app [here](https://editor.p5js.org/jtimberlake8/full/VrQH9YioI).
+Try the game [here](https://editor.p5js.org/jtimberlake8/full/VrQH9YioI).
 
 ## References
 **Images**
