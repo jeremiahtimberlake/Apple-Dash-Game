@@ -16,6 +16,8 @@ This project was completed for the course LMC 6310: The Computer as an Expressiv
 
 ## Tech Stack  
 - JavaScript (p5.js)
+- HTML
+- CSS
 
 ## Usage  
 Try the game [here](https://editor.p5js.org/jtimberlake8/full/VrQH9YioI).
